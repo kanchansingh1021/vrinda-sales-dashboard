@@ -68,8 +68,7 @@ The goal is to help the business understand past performance (2022) and make bet
 ---
 
 ## 📸 Dashboard Preview
-*(Add your dashboard screenshot here)*
-
+![Dashboard](dashboard.png)
 ---
 
 ## 📂 Files Included
