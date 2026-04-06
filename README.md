@@ -72,9 +72,9 @@ The goal is to help the business understand past performance (2022) and make bet
 ---
 
 ## 📂 Files Included
-- `vrinda-sales-dashboard.xlsx` → Main Excel dashboard  
-- `dashboard-screenshot.png` → Dashboard preview  
-- `presentation.pdf` → Project carousel presentation (optional)  
+- `VrindaStoreDataAnalysis.xlsx` → Main Excel dashboard  
+- `dashboard.png` → Dashboard preview  
+- `presentation.pdf` → Project carousel presentation  
 
 ---
 
