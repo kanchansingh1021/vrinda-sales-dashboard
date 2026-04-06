@@ -78,12 +78,5 @@ The goal is to help the business understand past performance (2022) and make bet
 
 ---
 
-## 🚀 Future Improvements
-- Add year-over-year comparison  
-- Build dashboard using Power BI  
-- Automate data updates  
-
----
-
 ## 👩‍💻 Author
 Kanchan Singh
